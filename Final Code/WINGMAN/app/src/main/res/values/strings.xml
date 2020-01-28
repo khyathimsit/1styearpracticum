@@ -1,0 +1,7 @@
+<resources>
+    <string name="app_name">WINGMAN</string>
+    <string name="title_activity_login">LoginActivity</string>
+    <string name="title_activity_register">RegisterActivity</string>
+    <string name="title_activity_verify_otp">VerifyOTP</string>
+    <string name="title_activity_home_page">HomePage</string>
+</resources>
