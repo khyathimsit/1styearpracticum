@@ -1,0 +1,48 @@
+{
+  "project_info": {
+    "project_number": "162045699392",
+    "firebase_url": "https://practicum-c89cc.firebaseio.com",
+    "project_id": "practicum-c89cc",
+    "storage_bucket": "practicum-c89cc.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:162045699392:android:8b51fb1dde3c91fd",
+        "android_client_info": {
+          "package_name": "com.example.wingmanversion10"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "162045699392-vtt7g2cphq3o2vb4pmkevqgdpk227ruk.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "com.example.wingmanversion10",
+            "certificate_hash": "1b34e09a8302dc05eb277371cd9738c413f54aa6"
+          }
+        },
+        {
+          "client_id": "162045699392-q4r82mf6g6641gmhdcip75uivh2u3aaq.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyD3kiqCca3mij3vdsClm2Qu_HY0qx2ekeE"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "162045699392-q4r82mf6g6641gmhdcip75uivh2u3aaq.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}

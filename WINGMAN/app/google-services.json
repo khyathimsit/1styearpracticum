@@ -1,0 +1,48 @@
+{
+  "project_info": {
+    "project_number": "35306217633",
+    "firebase_url": "https://wingman-fe73d.firebaseio.com",
+    "project_id": "wingman-fe73d",
+    "storage_bucket": "wingman-fe73d.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:35306217633:android:cd00fadfce4965f3",
+        "android_client_info": {
+          "package_name": "com.example.wingman"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "35306217633-3ca9nsmnffkb0vv29c34hqdt3bubrka3.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "com.example.wingman",
+            "certificate_hash": "01a0ebaf4d1cff3fdb73494a089db262332f7319"
+          }
+        },
+        {
+          "client_id": "35306217633-n3g4cc9tt95194gr7h8ncafqmhu3meu8.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyAOf5H0Xn7qWrfxT7CzCK_U66KbLYQJcnM"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "35306217633-n3g4cc9tt95194gr7h8ncafqmhu3meu8.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
